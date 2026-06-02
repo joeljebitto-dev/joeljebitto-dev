@@ -14,9 +14,6 @@ I like building practical systems that connect software, hardware, simulation, c
 - Clean architecture, tests, documentation, and production-ready project structure
 
 ## Featured Projects
-
-- **Franka Panda MuJoCo Exp-2** — 7-DOF Franka Panda simulation with MuJoCo, FastAPI, React, IK, PID control, trajectories, and tests.
-- **Franka Panda MuJoCo Exp-1** — Pick-and-place simulator with live camera view, browser control panel, FastAPI backend, and React frontend.
 - **School CS Project 12th** — 3-DOF robot-arm control demo with FK, IK, Jacobian solving, PID control, MuJoCo, and Tkinter.
 - **Terminal Tic-Tac-Toe** — Simple Python command-line Tic-Tac-Toe game.
 - **Learning Rust** — Rust practice repository with concepts, experiments, and mini-projects.
