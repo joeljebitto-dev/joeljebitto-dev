@@ -13,11 +13,6 @@ I like building practical systems that connect software, hardware, simulation, c
 - Embedded systems, AI/ML, and computer vision
 - Clean architecture, tests, documentation, and production-ready project structure
 
-## Featured Projects
-- **School CS Project 12th** — 3-DOF robot-arm control demo with FK, IK, Jacobian solving, PID control, MuJoCo, and Tkinter.
-- **Terminal Tic-Tac-Toe** — Simple Python command-line Tic-Tac-Toe game.
-- **Learning Rust** — Rust practice repository with concepts, experiments, and mini-projects.
-
 ## Tech Stack
 
 Python, Java, C++, JavaScript, Rust, Kotlin, MuJoCo, ROS 2, FastAPI, Spring Boot, PostgreSQL, React, Next.js, Tailwind CSS, Android, pytest, Git, Linux, and Neovim.
